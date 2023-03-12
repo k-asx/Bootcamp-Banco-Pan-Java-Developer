@@ -10,3 +10,6 @@ oportunidd
 autonomia
 protagonismo
 gestão de tempo
+
+Links de vídeo úteis
+https://www.youtube.com/watch?v=jeIqjmlLiPI
