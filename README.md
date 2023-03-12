@@ -13,3 +13,4 @@ gestão de tempo
 
 Links de vídeo úteis
 https://www.youtube.com/watch?v=jeIqjmlLiPI
+Atalhos do Intellij: http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea 
