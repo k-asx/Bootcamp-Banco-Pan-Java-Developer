@@ -15,4 +15,5 @@ Links de vídeo úteis
 https://www.youtube.com/watch?v=jeIqjmlLiPI
 Atalhos do Intellij: http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea 
 aula do you tube : Criando repositório no GitHub com IntelliJ IDEA - https://www.youtube.com/watch?v=TW5erFUOccg&t=0s
+https://github.com/cami-la/loops-e-arrays - Repositório que a Camila passou em aula para consultar exercicios e dúvidas.
 
